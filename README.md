@@ -3,18 +3,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ommane1/)
 
 ### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OmMane1&label=Profile%20views&color=0e75b6&style=flat" alt="OmMane1" /> </p>
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+I'm a **Full Stack Developer** and **AI explorer**, currently pursuing my Master's in Computer Science at Northeastern University 🇺🇸. I love turning ideas into real, usable tech — whether it's a polished frontend, a robust backend, or an intelligent model quietly doing its job behind the scenes.
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+I've worked across the stack using **React**, **Next.js**, **Node.js**, **MongoDB**, and **Tailwind**, and ventured into the world of AI with projects in **PyTorch** and **Reinforcement Learning** (yes, I trained agents to defend towers—nerdy and proud 🧠🛡️).
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+I’ve collaborated on platforms that help people learn, create, and connect, and I always strive to build things that are not only functional, but meaningful. Technology, to me, is less about lines of code and more about the stories we help tell and the problems we help solve.
 
-Joined Github **6** years ago.
+When I’m not coding, you’ll probably find me exploring museums, binge-watching history documentaries, experimenting in the kitchen with new recipes or going for a refreshing run to clear my mind.
 
-Since then I pushed **3506**+ commits, opened **229**+ issues, submitted **555**+ pull requests, created **20**+ gists and contributed to **4**+ public repositories.
+> “In the face of overwhelming odds, I'm left with only one option: I'm gonna have to science the sh*t out of this.”  
+> — *Mark Watney*, *The Martian*
+
+Feel free to reach out @OmMane1 — whether it’s about tech, projects, or just to say hi! Always up for meaningful conversations and building cool things together. 🚀
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
@@ -23,38 +25,57 @@ Since then I pushed **3506**+ commits, opened **229**+ issues, submitted **555**
 </p>
 <hr>
 
-Like My Work?
+<img align="right" height="250" width="305" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+### 🎯 A Little More About Me
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+- 🛠️ &nbsp; Currently working with **JavaScript**, **TypeScript**, **Node.js**, **React**, **Next.js**, and **AWS** to build full-stack apps.
+- 🧠 &nbsp; Also building **AI/ML** and backend systems using **Python**, **Java**, **PyTorch**, and **Flask** — from smart models to scalable APIs.  
+- 🤖 &nbsp; Diving deeper into **Machine Learning**, **Generative AI**, and **LLMs**, especially in applied use cases.  
+- 💬 &nbsp; Got a question or just want to brainstorm something cool? [Open an issue here](https://github.com/OmMane1/OmMane1/issues) — always happy to help or chat.  
+- 👾 &nbsp; Fun fact: In JavaScript, `NaN !== NaN` — because even Not-a-Number has trust issues.  
+- 📫 &nbsp; Reach me at: **ommane1@gmail.com**
 
-### Talking about Personal Stuff:
+---
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+### 🌟 Things That Keep Me Inspired
 
-### My Absolute Favorites:
+- 💻 &nbsp; I love exploring new technologies and building meaningful, user-focused products.  
+- 🏛️ &nbsp; When the code compiles and the IDE closes, I find myself drawn into medieval quests — right now it’s *Kingdom Come: Deliverance 2* stealing all my attention.
+> *Audentes fortuna iuvat*  
+> — *Sir Hans Capon of Pirkstein*
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+- 🧠 &nbsp; Constantly learning — whether it's through books, YouTube deep dives, or late-night debugging marathons.
 
-### Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+### 🧰 Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="nextjs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="tailwind css"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="kubernetes"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code>
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="pytorch"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="tensorflow"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="numpy"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter"></code>
+
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash"></code>
+
 
 ### Projects and Dev Stuffs:
 
@@ -62,29 +83,15 @@ Like My Work?
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmMane1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmMane1&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
-</details>
-
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Chrome & Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
-	</ul>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OmMane1&hide_border=true" />
 </details>
 
 #
