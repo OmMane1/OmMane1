@@ -85,8 +85,6 @@ Feel free to reach out @OmMane1 — whether it’s about tech, projects, or just
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmMane1&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmMane1&exclude_repo=KNN-Image-Classification&layout=compact&langs_count=10&theme=github_dark&hide_border=true" />
 </details>
-#
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
