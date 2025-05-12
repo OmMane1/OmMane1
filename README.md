@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ommane1/)
 
-### Glad to see you here! 
+### Happy to have you exploring my GitHub space! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OmMane1&label=Profile%20views&color=0e75b6&style=flat" alt="OmMane1" /> </p>
 
 I'm a **Full Stack Developer** and **AI explorer**, currently pursuing my Master's in Computer Science at Northeastern University 🇺🇸. I love turning ideas into real, usable tech — whether it's a polished frontend, a robust backend, or an intelligent model quietly doing its job behind the scenes.
@@ -80,20 +80,11 @@ Feel free to reach out @OmMane1 — whether it’s about tech, projects, or just
 ### Projects and Dev Stuffs:
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
-
+  <summary><b>⚡ GitHub Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmMane1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmMane1&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmMane1&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmMane1&exclude_repo=KNN-Image-Classification&layout=compact&langs_count=10&theme=github_dark&hide_border=true" />
 </details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OmMane1&hide_border=true" />
-</details>
-
 #
 
 <div align="center">
